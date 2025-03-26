@@ -13,7 +13,4 @@ Estudando no momento:
   </a>
 <a href="https://www.linkedin.com/in/alice-frogeri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-<a href="https://discord.com/channels/@tec_mikoto" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
 </div>
